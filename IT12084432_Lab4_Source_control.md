@@ -23,5 +23,16 @@
 
 * Find lab 1 at >>> (https://github.com/IntroHCI/lab1)
 
+Click **Fork**
+
 ![img fork](http://i60.tinypic.com/123t9ie.jpg)
+
+Arter Fork
+
+![img fork](http://i61.tinypic.com/2wr1dm0.jpg)
+
+
+
+
+
 
