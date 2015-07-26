@@ -56,8 +56,9 @@
 
 * Turn the portfolio page scaffold into a full web site and  push it to GitHub
 
+![img](http://i58.tinypic.com/33kt0mv.jpg)
 
-
+![img](http://i58.tinypic.com/25rnw3n.jpg)
 
 
 
