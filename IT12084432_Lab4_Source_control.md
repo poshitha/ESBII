@@ -4,7 +4,7 @@
  
  **Practical Session**: WE Thursday (7/23/2015)
  
- **Practical Number**: Lab 4 (http://d.ucsd.edu/class/intro-hci/2015/lab/lab1/index.html)
+ **Practical Number**: Lab 4         (http://d.ucsd.edu/class/intro-hci/2015/lab/lab1/index.html)
 
 #Source Control
 
@@ -22,4 +22,6 @@
 **Fork your first repository** 
 
 * Find lab 1 at >>> (https://github.com/IntroHCI/lab1)
+
+![img fork](http://i60.tinypic.com/123t9ie.jpg)
 
