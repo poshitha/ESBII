@@ -27,11 +27,13 @@ Click **Fork**
 
 ![img fork](http://i60.tinypic.com/123t9ie.jpg)
 
-Arter Fork
+After Fork
 
 ![img fork](http://i61.tinypic.com/2wr1dm0.jpg)
 
+**Copy the git clone URL**
 
+![img gitURL](http://i58.tinypic.com/2lwsto7.jpg)
 
 
 
