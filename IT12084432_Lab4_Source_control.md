@@ -60,5 +60,16 @@
 
 ![img](http://i58.tinypic.com/25rnw3n.jpg)
 
+* Set up Git
+
+![img](http://i62.tinypic.com/mr9zyc.jpg)
+
+
+
+
+
+
+
+
 
 
