@@ -72,6 +72,8 @@
 
 ![img](http://i61.tinypic.com/24300p2.jpg)
 
+* GitHub reflects your commit
 
+![img](http://i57.tinypic.com/15ds0f8.jpg)
 
 
