@@ -45,6 +45,15 @@
 
 ![img clone](http://i58.tinypic.com/2ibbymv.jpg)
 
+* Open your text editor
+* Add your info into lab1/static/index.html
+
+![sub](http://i57.tinypic.com/2qun5ll.jpg)
+
+* Browse to index.html using the file on your hard drive
+
+![browes](http://i62.tinypic.com/30lynwn.jpg)
+
 
 
 
