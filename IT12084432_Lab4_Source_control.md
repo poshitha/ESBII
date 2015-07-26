@@ -39,9 +39,11 @@
 
 ![img ](http://i60.tinypic.com/wmkpif.jpg)
 
+* **git clone** the repo inside of introHCL 
 
+(make sure the clone URL has your forked GitHub username in it, not IntroHCL)
 
-
+![img clone](http://i58.tinypic.com/2ibbymv.jpg)
 
 
 
