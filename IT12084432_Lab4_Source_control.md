@@ -64,13 +64,13 @@
 
 ![img](http://i62.tinypic.com/mr9zyc.jpg)
 
-* git status and git add
+* **git status** and **git add**
 
 ![img](http://i58.tinypic.com/6jpsn4.jpg)
 
+* **Commit** , **pull** and then **push**
 
-
-
+![img](http://i61.tinypic.com/24300p2.jpg)
 
 
 
