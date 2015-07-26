@@ -8,3 +8,10 @@
 
 #Source Control
 
+* Put your code in the cloud: GitHub
+ 
+* Make checkpoints and push to the cloud: git
+ 
+* Deal with team edits:git conflicts
+
+* Make a web page: static HTML
