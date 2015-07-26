@@ -64,7 +64,9 @@
 
 ![img](http://i62.tinypic.com/mr9zyc.jpg)
 
+* git status and git add
 
+![img](http://i58.tinypic.com/6jpsn4.jpg)
 
 
 
