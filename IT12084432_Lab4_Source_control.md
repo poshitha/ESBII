@@ -15,3 +15,11 @@
 * Deal with team edits:git conflicts
 
 * Make a web page: static HTML
+
+
+**Download IntroHCL configuration files**    >>>  (http://d.ucsd.edu/class/intro-hci/2015/vagrant.zip)
+
+**Fork your first repository** 
+
+* Find lab 1 at >>> (https://github.com/IntroHCI/lab1)
+
