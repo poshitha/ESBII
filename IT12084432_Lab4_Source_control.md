@@ -54,7 +54,7 @@
 
 ![browes](http://i62.tinypic.com/30lynwn.jpg)
 
-
+* Turn the portfolio page scaffold into a full web site and  push it to GitHub
 
 
 
