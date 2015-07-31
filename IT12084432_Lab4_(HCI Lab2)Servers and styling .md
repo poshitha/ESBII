@@ -28,8 +28,9 @@
 
 2.	Publish my portfolio
 
-![ Heroku Account](http://i59.tinypic.com/2sae6ib.jpg)
-![](http://i58.tinypic.com/2njlfsh.jpg)
+![slids](http://i59.tinypic.com/2sae6ib.jpg)
+![slids](http://i58.tinypic.com/2njlfsh.jpg)
+
 Open your terminal and cd to the introHCI directory
 (ls to make sure it contains Vagrantfile)
 
@@ -42,3 +43,9 @@ Fork the Lab 2 repository at   http://github.com/IntroHCI/lab2
 ![12](http://i59.tinypic.com/ob04mu.jpg)
 
 ![13](http://i59.tinypic.com/1247xuh.jpg)
+
+Clone in to introHCI directory
+
+
+
+
