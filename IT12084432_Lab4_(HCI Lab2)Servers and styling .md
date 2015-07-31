@@ -46,6 +46,7 @@ Fork the Lab 2 repository at   http://github.com/IntroHCI/lab2
 
 Clone in to introHCI directory
 
+![git clone] (http://i57.tinypic.com/2dvr8nt.jpg)
 
 
 
