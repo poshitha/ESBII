@@ -1,6 +1,6 @@
 
 :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: 
-:octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: 
+:octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: 
 
  **Name**: M.K.P.Tharanganie
  
@@ -12,13 +12,13 @@
 
 #Download and install ownCloud on your own Linux server
 
-##1.Download ownCloud at  https://owncloud.org/install/#instructions-server
+###1.Download ownCloud at  https://owncloud.org/install/#instructions-server
 
-* -> Download
+* Download
 
 ![ownCloud]()
 
-*  Download ownCloud
+* Download ownCloud
 
 ![ownCloud]()
 
