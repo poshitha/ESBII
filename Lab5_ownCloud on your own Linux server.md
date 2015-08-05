@@ -46,14 +46,37 @@
 
 ![sentOS](http://i57.tinypic.com/kbvbsm.jpg)
 
-![sentOS]()
+![owncloud](http://i62.tinypic.com/317iffb.jpg)
 
-![sentOS]()
+![owncloud](http://i62.tinypic.com/2dha9sh.jpg)
 
-![sentOS]()
+![owncloud](http://i60.tinypic.com/dfu0yr.jpg)
 
-![sentOS]()
+![owncloud](http://i61.tinypic.com/29ashl4.jpg)
 
+![owncloud](http://i60.tinypic.com/jsll41.jpg)
+
+![owncloud](http://i61.tinypic.com/9s4e3d.jpg)
+
+![owncloud](http://i59.tinypic.com/t4z1au.jpg)
+
+![owncloud](http://i62.tinypic.com/23gxxfc.jpg)
+
+![owncloud](http://i58.tinypic.com/91kjdx.jpg)
+
+![owncloud](http://i61.tinypic.com/25iu140.jpg)
+
+![owncloud](http://i57.tinypic.com/bdjr6u.jpg)
+
+![owncloud](http://i61.tinypic.com/2lo4xuw.jpg)
+
+![owncloud](http://i61.tinypic.com/152kj9c.jpg)
+
+![owncloud](http://i59.tinypic.com/2vbvbio.jpg)
+
+![owncloud](http://i58.tinypic.com/2v0lkk9.jpg)
+
+![owncloud](http://i60.tinypic.com/2zp06kx.jpg)
 2.Download ownCloud at  https://owncloud.org/install/#instructions-server
 
 * Download
