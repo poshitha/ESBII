@@ -12,7 +12,7 @@
 
 #Download and install ownCloud on your own Linux server
 
-1.sentOS 
+1. **Create sentOS Linux server**
 
 ![sentOS](http://i57.tinypic.com/38pit.jpg)
 
@@ -65,18 +65,19 @@
 ![owncloud](http://i58.tinypic.com/91kjdx.jpg)
 
 
-2.Download ownCloud at  https://owncloud.org/install/#instructions-server
+2. **Download ownCloud at  https://owncloud.org/install/#instructions-server**
 
-* Download
 ![owncloud](http://i61.tinypic.com/25iu140.jpg)
 
-* Download ownCloud
+* Download
 
 ![owncloud](http://i57.tinypic.com/bdjr6u.jpg)
 
-* Download .tar.bz2 or .zip archive.
+* Download ownCloud
 
 ![owncloud](http://i61.tinypic.com/2lo4xuw.jpg)
+
+* Download .tar.bz2 or .zip archive.
 
 ![owncloud](http://i61.tinypic.com/152kj9c.jpg)
 
