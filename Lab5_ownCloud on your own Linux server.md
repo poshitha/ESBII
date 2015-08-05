@@ -64,9 +64,17 @@
 
 ![owncloud](http://i58.tinypic.com/91kjdx.jpg)
 
+
+2.Download ownCloud at  https://owncloud.org/install/#instructions-server
+
+* Download
 ![owncloud](http://i61.tinypic.com/25iu140.jpg)
 
+* Download ownCloud
+
 ![owncloud](http://i57.tinypic.com/bdjr6u.jpg)
+
+* Download .tar.bz2 or .zip archive.
 
 ![owncloud](http://i61.tinypic.com/2lo4xuw.jpg)
 
@@ -77,16 +85,10 @@
 ![owncloud](http://i58.tinypic.com/2v0lkk9.jpg)
 
 ![owncloud](http://i60.tinypic.com/2zp06kx.jpg)
-2.Download ownCloud at  https://owncloud.org/install/#instructions-server
 
-* Download
 
-![ownCloud]()
 
-* Download ownCloud
+:octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: 
+:octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: 
 
-![ownCloud]()
 
-* Download .tar.bz2 or .zip archive.
-
-![ownCloud]()
