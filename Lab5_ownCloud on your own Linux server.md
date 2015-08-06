@@ -196,6 +196,7 @@ Order allow,deny
 allow from all
 
 </Directory>
+
 ---------------------------------------------------------
 
 ![vi](http://i58.tinypic.com/209n80j.jpg)
@@ -206,19 +207,19 @@ Remember to restart all services related to Apache server.
 
 systemctl restart httpd.service
 
-
-
+![](http://i58.tinypic.com/21b6paa.jpg)
 
 **Configure ownCloud:**
+
 Open up web browser, point a URL to http://your-ip-address/owncloud ( http://Your-custom-domain). Browser will automatically take you to ownCloud setup page where it must be configured before going to live. Enter admin user name, password, data folder location and database details. You can choose any one of the database from SQLite or MySQL. If you choose SQLite database, you do not require to enter database details. where as MySQL database requires database user, password and data base name.
 
-![installation of owncloud]()
-![installation of owncloud]()
-![installation of owncloud]()
-![installation of owncloud]()
+![installation of owncloud](http://i60.tinypic.com/2621d94.jpg)
 
+![installation of owncloud](http://i58.tinypic.com/2i74u1w.jpg)
 
+![installation of owncloud](http://i62.tinypic.com/122fcpy.jpg)
 
+![installation of owncloud](http://i57.tinypic.com/6irwk8.jpg)
 
 
 :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: 
