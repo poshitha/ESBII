@@ -67,7 +67,7 @@
 
 2. **Installation of ownCloud in Linux** (http://www.itzgeek.com/how-tos/linux/centos-how-tos/install-owncloud-7-on-centos-7-rhel-7.html#axzz3hYXBLvvc)
 
-* install PHP, Apache web server and MySQL server on CentOS 7. For demo purpose i installed both SQLite and MySQL on CentOS
+install PHP, Apache web server and MySQL server on CentOS 7. For demo purpose i installed both SQLite and MySQL on CentOS
 
 **cmd:**
 
@@ -82,13 +82,13 @@ yum install httpd php php-mysql mariadb-server mariadb sqlite php-dom php-mbstri
 ![installation of owncloud](http://i60.tinypic.com/2bd0mt.jpg)
 
 
-* Set SELinux to allow OwnCloud to write the data.
+Set SELinux to allow OwnCloud to write the data.
 
 **cmd:**
 
 setsebool -P httpd_unified 1
 
-* Allow apache in firewall.
+Allow apache in firewall.
 
 **cmd:**
 
@@ -100,14 +100,15 @@ firewall-cmd --reload
 
 ![installation of owncloud](http://i61.tinypic.com/ir803s.jpg)
 
-* Start Apache and MariaDB.
+Start Apache and MariaDB.
 
 **cmd:**
 
 systemctl start httpd.service
+
 systemctl start mariadb.service
 
-* Auto start the service at system start-up.
+Auto start the service at system start-up.
 
 **cmd:**
 
@@ -120,7 +121,7 @@ systemctl enable mariadb.service
 
 #Download and Setup:
 
-* Download ownCloud from official website or enter the fallowing command on terminal.
+Download ownCloud from official website or enter the fallowing command on terminal.
 
 **cmd:**
 
@@ -128,7 +129,7 @@ wget https://download.owncloud.org/community/owncloud-8.1.0.tar.bz2
 
 ![installation of owncloud](http://i59.tinypic.com/2qxssg7.jpg)
 
-* Extract the archive.
+Extract the archive.
 
 **cmd:**
 
@@ -136,56 +137,73 @@ tar -jxvf owncloud-7.0.0.tar.bz2 -C /var/www/html/
 
 ![installation of owncloud](http://i61.tinypic.com/ddnj94.jpg)
 
-* Allow the web server to read and write the files on cloud directory.
+Allow the web server to read and write the files on cloud directory.
 
 **cmd:**
 
 chown -R apache.apache /var/www/html/owncloud/
 
-68
-![installation of owncloud]()
+![installation of owncloud](http://i61.tinypic.com/34gv60i.jpg)
 
 #Create Database:
+
 If you are setting up a MariaDB for the first time, here is the tutorial on Securing MariaDB.  MariaDB server must be started before creating the database, login to MySQL server.
-cmd
+
+**cmd:**
+
 mysql -u root -p
 
-69
-![installation of owncloud]()
+![installation of owncloud](http://i57.tinypic.com/2mqpx1x.jpg)
 
 Create database called “clouddb”
-cmd
+
+**cmd:**
+
 create database clouddb;
 
 70
 ![installation of owncloud]()
 
 Allow “clouddbuser” to access the “clouddb” database on localhost with predefined password.
-cmd
+
+**cmd:**
+
 grant all on clouddb.* to 'clouddbuser'@'localhost' identified by 'password';
 
 71
 ![installation of owncloud]()
 
 #Configure Apache server:
-cmd
+
+**cmd:**
+
 vi /etc/httpd/conf.d/owncloud.conf
 
 Add the following.system
 
 <IfModule mod_alias.c>
+
 Alias /owncloud /var/www/html/owncloud
+
 </IfModule>
+
 <Directory “/var/www/html/owncloud”>
+
 Options Indexes FollowSymLinks
+
 AllowOverride All
+
 Order allow,deny
+
 allow from all
+
 </Directory>
 
 
 Remember to restart all services related to Apache server.
-cmd
+
+**cmd:**
+
 systemctl restart httpd.service
 
 
