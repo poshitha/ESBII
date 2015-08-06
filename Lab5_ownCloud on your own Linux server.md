@@ -67,22 +67,6 @@
 
 2. **Installation of ownCloud in Linux** (http://www.itzgeek.com/how-tos/linux/centos-how-tos/install-owncloud-7-on-centos-7-rhel-7.html#axzz3hYXBLvvc)
 
-Before starting the installation of this application it is required to have LAMP stack already installed. So if you are working with Redhat or CentOS or Fedora, you have to use the following command:
-
-# yum install httpd mysql-server mysql-client php php-mysql php-curl
-
-46,47,48,49,50
-![installation of owncloud]()
-
-![installation of owncloud]()
-
-![installation of owncloud]()
-
-![installation of owncloud]()
-
-![installation of owncloud]()
-
-
 install PHP, Apache web server and MySQL server on CentOS 7. For demo purpose i installed both SQLite and MySQL on CentOS
 
 cmd
@@ -91,9 +75,9 @@ yum install httpd php php-mysql mariadb-server mariadb sqlite php-dom php-mbstri
 
 ![installation of owncloud](http://i58.tinypic.com/5cy5hy.jpg)
 
-![installation of owncloud]()
+![installation of owncloud](http://i60.tinypic.com/2nb6rec.jpg)
 
-![installation of owncloud]()
+![installation of owncloud](http://i60.tinypic.com/2bd0mt.jpg)
 
 
 Set SELinux to allow OwnCloud to write the data.
