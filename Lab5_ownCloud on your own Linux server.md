@@ -67,11 +67,13 @@
 
 2. **Installation of ownCloud in Linux** (http://www.itzgeek.com/how-tos/linux/centos-how-tos/install-owncloud-7-on-centos-7-rhel-7.html#axzz3hYXBLvvc)
 
-install PHP, Apache web server and MySQL server on CentOS 7. For demo purpose i installed both SQLite and MySQL on CentOS
+* install PHP, Apache web server and MySQL server on CentOS 7. For demo purpose i installed both SQLite and MySQL on CentOS
 
-cmd
+**cmd:**
+
 yum install httpd php php-mysql mariadb-server mariadb sqlite php-dom php-mbstring php-gd php-pdo wget
-60,61,62
+
+![installation of owncloud](http://i62.tinypic.com/2vacqyb.jpg)
 
 ![installation of owncloud](http://i58.tinypic.com/5cy5hy.jpg)
 
@@ -80,18 +82,22 @@ yum install httpd php php-mysql mariadb-server mariadb sqlite php-dom php-mbstri
 ![installation of owncloud](http://i60.tinypic.com/2bd0mt.jpg)
 
 
-Set SELinux to allow OwnCloud to write the data.
-cmd
+* Set SELinux to allow OwnCloud to write the data.
+
+**cmd:**
+
 setsebool -P httpd_unified 1
 
-Allow apache in firewall.
-cmd
+* Allow apache in firewall.
+
+**cmd:**
+
 firewall-cmd --permanent --zone=public --add-service=http
 firewall-cmd --permanent --zone=public --add-service=https
 firewall-cmd --reload
 
 63
-![installation of owncloud]()
+![installation of owncloud](http://i61.tinypic.com/ir803s.jpg)
 
 Start Apache and MariaDB.
 cmd
