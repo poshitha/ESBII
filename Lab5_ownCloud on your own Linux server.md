@@ -161,8 +161,7 @@ Create database called “clouddb”
 
 create database clouddb;
 
-70
-![installation of owncloud]()
+![installation of owncloud](http://i59.tinypic.com/dno6lw.jpg)
 
 Allow “clouddbuser” to access the “clouddb” database on localhost with predefined password.
 
@@ -170,8 +169,7 @@ Allow “clouddbuser” to access the “clouddb” database on localhost with p
 
 grant all on clouddb.* to 'clouddbuser'@'localhost' identified by 'password';
 
-71
-![installation of owncloud]()
+![installation of owncloud](http://i59.tinypic.com/zwc4yt.jpg)
 
 #Configure Apache server:
 
