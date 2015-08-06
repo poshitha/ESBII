@@ -116,15 +116,19 @@ systemctl enable mariadb.service
 
 
 #Download and Setup:
-Download ownCloud from official website or enter the fallowing command on terminal.
-cmd
+
+* Download ownCloud from official website or enter the fallowing command on terminal.
+
+**cmd:**
+
 wget https://download.owncloud.org/community/owncloud-8.1.0.tar.bz2
 
-66
-![installation of owncloud]()
+![installation of owncloud](http://i59.tinypic.com/2qxssg7.jpg)
 
-Extract the archive.
-cmd
+* Extract the archive.
+
+**cmd:**
+
 tar -jxvf owncloud-7.0.0.tar.bz2 -C /var/www/html/
 
 67
