@@ -93,7 +93,9 @@ setsebool -P httpd_unified 1
 **cmd:**
 
 firewall-cmd --permanent --zone=public --add-service=http
+
 firewall-cmd --permanent --zone=public --add-service=https
+
 firewall-cmd --reload
 
 ![installation of owncloud](http://i61.tinypic.com/ir803s.jpg)
@@ -110,6 +112,7 @@ systemctl start mariadb.service
 **cmd:**
 
 systemctl enable httpd.service
+
 systemctl enable mariadb.service
 
 ![installation of owncloud](http://i62.tinypic.com/zukpie.jpg)
@@ -131,11 +134,12 @@ wget https://download.owncloud.org/community/owncloud-8.1.0.tar.bz2
 
 tar -jxvf owncloud-7.0.0.tar.bz2 -C /var/www/html/
 
-67
-![installation of owncloud]()
+![installation of owncloud](http://i61.tinypic.com/ddnj94.jpg)
 
-Allow the web server to read and write the files on cloud directory.
-cmd
+* Allow the web server to read and write the files on cloud directory.
+
+**cmd:**
+
 chown -R apache.apache /var/www/html/owncloud/
 
 68
