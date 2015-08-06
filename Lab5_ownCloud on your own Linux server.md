@@ -96,21 +96,23 @@ firewall-cmd --permanent --zone=public --add-service=http
 firewall-cmd --permanent --zone=public --add-service=https
 firewall-cmd --reload
 
-63
 ![installation of owncloud](http://i61.tinypic.com/ir803s.jpg)
 
-Start Apache and MariaDB.
-cmd
+* Start Apache and MariaDB.
+
+**cmd:**
+
 systemctl start httpd.service
 systemctl start mariadb.service
 
-Auto start the service at system start-up.
-cmd
+* Auto start the service at system start-up.
+
+**cmd:**
+
 systemctl enable httpd.service
 systemctl enable mariadb.service
 
-65
-![installation of owncloud]()
+![installation of owncloud](http://i62.tinypic.com/zukpie.jpg)
 
 
 #Download and Setup:
