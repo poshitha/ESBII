@@ -178,7 +178,7 @@ grant all on clouddb.* to 'clouddbuser'@'localhost' identified by 'password';
 vi /etc/httpd/conf.d/owncloud.conf
 
 Add the following.system
-
+--------------------------------------------------------
 <IfModule mod_alias.c>
 
 Alias /owncloud /var/www/html/owncloud
@@ -196,7 +196,9 @@ Order allow,deny
 allow from all
 
 </Directory>
+---------------------------------------------------------
 
+![vi](http://i58.tinypic.com/209n80j.jpg)
 
 Remember to restart all services related to Apache server.
 
