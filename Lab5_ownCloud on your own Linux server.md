@@ -89,7 +89,7 @@ cmd
 yum install httpd php php-mysql mariadb-server mariadb sqlite php-dom php-mbstring php-gd php-pdo wget
 60,61,62
 
-![installation of owncloud]()
+![installation of owncloud](http://i58.tinypic.com/5cy5hy.jpg)
 
 ![installation of owncloud]()
 
